@@ -2,7 +2,7 @@
 I'm a Software Engineer and a 3rd year CS student at the University of Waterloo. Currently looking for Summer 2026 SWE Internships!
 
 
-- 👨‍💻 I'm currently a SWE intern at [Zomp Inc.](https://github.com/zompinc)
+- 👨‍💻 I was last a SWE intern at [Zomp Inc.](https://github.com/zompinc). I've completed 3 SWE internships total!
 - 🔭 I’m currently working on: [BuildBuddies](https://buildbuddies.ca/)
 - ⚡ Other Passions: I'm also an avid basketball player and musician/saxophonist
 
