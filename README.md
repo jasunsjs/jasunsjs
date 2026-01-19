@@ -6,7 +6,7 @@ I'm a Software Engineer and a 3rd year CS student at the University of Waterloo.
 - 🔭 I’m currently working on: [BuildBane](https://buildbane.com/)
 - ⚡ Other Passions: I'm also an avid basketball player and musician/saxophonist
 
-Checkout my portfolio website: [jasonsun.vercel.app](https://jasonsun.vercel.app)
+Checkout my website: [jasonsun.vercel.app](https://jasonsun.vercel.app)
 
 ## 🔧 Some Technologies I've Worked With
 <p align="center">
