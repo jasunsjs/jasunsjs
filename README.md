@@ -3,8 +3,10 @@ I'm a Software Engineer and a 3rd year CS student at the University of Waterloo.
 
 
 - 👨‍💻 I was last a SWE intern at [Zomp Inc.](https://github.com/zompinc). I've completed 3 SWE internships total!
-- 🔭 I’m currently working on: [BuildBuddies](https://buildbuddies.ca/)
+- 🔭 I’m currently working on: [BuildBane](https://buildbane.com/)
 - ⚡ Other Passions: I'm also an avid basketball player and musician/saxophonist
+
+Checkout my portfolio website: [jasonsun.vercel.app](https://jasonsun.vercel.app)
 
 ## 🔧 Some Technologies I've Worked With
 <p align="center">
