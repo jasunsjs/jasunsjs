@@ -1,10 +1,10 @@
 ## Hey, I'm Jason!
-I'm a Software Engineer and a 3rd year CS student at the University of Waterloo.
+I'm a Software Engineer and a CS + AI student at the University of Waterloo.
 
-Checkout my website: [https://jasonsun.vercel.app](https://jasonsun.vercel.app)
+Currently look for SWE internships for Fall 2026 or Winter/Summer 2027.
 
-- 👨‍💻 I'm a SWE intern at [Zanbato](https://www.zanbato.com/) in Mountain View. Including this, I've had 4 SWE internship experiences.
-- 🔭 I’m currently working on: [BuildBane](https://buildbane.com/)
+- 🔭 Checkout my website: [https://jasonsun.vercel.app](https://jasonsun.vercel.app)
+- 👨‍💻 I'm a SWE intern at [Zanbato](https://www.zanbato.com/) in Mountain View, CA. I've had 4 SWE internship experiences.
 - ⚡ Other Passions: I'm also an avid basketball player and musician/saxophonist
 
 ## 🔧 Some Technologies I've Worked With
@@ -16,11 +16,22 @@ Checkout my website: [https://jasonsun.vercel.app](https://jasonsun.vercel.app)
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />  
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+
   <img src="https://img.shields.io/badge/-Flask-3BABC3?style=flat-square&logo=flask&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
 </p>
 
 📫 Feel free to connect with me: [jasonsunjishen@gmail.com](mailto:jasonsunjishen@gmail.com)
