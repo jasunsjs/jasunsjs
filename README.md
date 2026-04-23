@@ -3,7 +3,7 @@ I'm a Software Engineer and a 3rd year CS student at the University of Waterloo.
 
 Checkout my website: [https://jasonsun.vercel.app](https://jasonsun.vercel.app)
 
-- 👨‍💻 I a SWE intern at [Zanbato](https://www.zanbato.com/) in Mountain View. Including this, I've had 4 SWE internship experiences.
+- 👨‍💻 I'm a SWE intern at [Zanbato](https://www.zanbato.com/) in Mountain View. Including this, I've had 4 SWE internship experiences.
 - 🔭 I’m currently working on: [BuildBane](https://buildbane.com/)
 - ⚡ Other Passions: I'm also an avid basketball player and musician/saxophonist
 
