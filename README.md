@@ -1,7 +1,7 @@
 ## Hey, I'm Jason!
 I'm a Software Engineer and a CS + AI student at the University of Waterloo.
 
-Currently look for SWE internships for Fall 2026 or Winter/Summer 2027.
+Currently look for SWE internships for Winter/Summer 2027.
 
 - 🔭 Checkout my website: [https://jasonsun.vercel.app](https://jasonsun.vercel.app)
 - 👨‍💻 I'm currently a SWE intern at [Zanbato](https://www.zanbato.com/) in Mountain View, CA. I've had 4 SWE internship experiences.
