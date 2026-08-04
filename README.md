@@ -1,5 +1,5 @@
 ## Hey, I'm Jason!
-I'm a Software Engineer and a CS + AI student at the University of Waterloo.
+I'm a Software Engineer and a CS student at the University of Waterloo.
 
 Currently look for SWE internships for Winter/Summer 2027.
 
