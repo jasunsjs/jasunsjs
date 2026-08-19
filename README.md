@@ -3,7 +3,7 @@ I'm a Software Engineer and a CS student at the University of Waterloo.
 
 Currently look for SWE internships for Winter/Summer 2027.
 
-- 🔭 Checkout my website: [https://jasonsun.site](https://jasonsun.site)
+- 🔭 Checkout my website: [jasonsun.site](https://jasonsun.site)
 - 👨‍💻 I'm currently a SWE intern at [Zanbato](https://www.zanbato.com/) in Mountain View, CA. I've had 4 SWE internship experiences.
 - ⚡ Other Passions: I'm also an avid basketball player and a musician/saxophonist on the side.
 
