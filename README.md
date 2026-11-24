@@ -4,34 +4,40 @@ I'm a Software Engineer and a CS student at the University of Waterloo.
 Currently look for SWE internships for Summer/Fall 2027.
 
 - 🔭 Checkout my website: [jasonsun.site](https://jasonsun.site)
-- 👨‍💻 I am an incoming SWE intern at [Frec](https://frec.com/) in SF, and I previously interned at [Zanbato](https://www.zanbato.com/) in Mountain View, CA. I've had 4 SWE internship experiences.
+- 👨‍💻 I am an incoming SWE intern at [Frec](https://frec.com/) for Winter 2027 in SF, and I previously interned at [Zanbato](https://www.zanbato.com/) in Mountain View, CA. I've had 4 SWE internship experiences.
 - ⚡ Other Passions: I'm also an avid basketball player and a musician/saxophonist on the side.
 
-## 🔧 Some Technologies I've Worked With
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
+### My Stack
 
-  <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />  
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+**Languages**
 
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat&logo=python&logoColor=3776AB)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat&logo=javascript&logoColor=F7DF1E)
+![Go](https://img.shields.io/badge/Go-0D1117?style=flat&logo=go&logoColor=00ADD8)
+![C++](https://img.shields.io/badge/C++-0D1117?style=flat&logo=cplusplus&logoColor=00599C)
+![Java](https://img.shields.io/badge/Java-0D1117?style=flat&logo=openjdk&logoColor=E76F00)
+![C#](https://img.shields.io/badge/C%23-0D1117?style=flat&logo=csharp&logoColor=9B4F96)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=flat&logo=postgresql&logoColor=4169E1)
+![Kotlin](https://img.shields.io/badge/Kotlin-0D1117?style=flat&logo=kotlin&logoColor=7F52FF)
 
-  <img src="https://img.shields.io/badge/-Flask-3BABC3?style=flat-square&logo=flask&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
-</p>
+**Technologies**
+
+![Django](https://img.shields.io/badge/Django-0D1117?style=flat&logo=django&logoColor=44B78B)
+![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat&logo=fastapi&logoColor=009688)
+![GraphQL](https://img.shields.io/badge/Graphql-0D1117?style=flat&logo=graphql&logoColor=E10098)
+![Celery](https://img.shields.io/badge/Celery-0D1117?style=flat&logo=celery&logoColor=37814A)
+![Redis](https://img.shields.io/badge/Redis-0D1117?style=flat&logo=redis&logoColor=FF4438)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat&logo=postgresql&logoColor=4169E1)
+![AWS](https://img.shields.io/badge/AWS-0D1117?style=flat&logo=amazonwebservices&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Azure-0D1117?style=flat&logo=azure&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat&logo=docker&logoColor=2496ED)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0D1117?style=flat&logo=kubernetes&logoColor=326CE5)
+![.NET](https://img.shields.io/badge/.NET-0D1117?style=flat&logo=dotnet&logoColor=7F52FF)
+![React](https://img.shields.io/badge/React-0D1117?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat&logo=nextdotjs&logoColor=FFFFFF)
+![React Native](https://img.shields.io/badge/React%20Native-0D1117?style=flat&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-0D1117?style=flat&logo=angular&logoColor=DD0031)
+
 
 📫 Feel free to connect with me: [jasonsunjishen@gmail.com](mailto:jasonsunjishen@gmail.com)
