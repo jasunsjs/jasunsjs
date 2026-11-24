@@ -1,10 +1,10 @@
 ## Hey, I'm Jason!
 I'm a Software Engineer and a CS student at the University of Waterloo.
 
-Currently look for SWE internships for Winter/Summer 2027.
+Currently look for SWE internships for Summer/Fall 2027.
 
 - 🔭 Checkout my website: [jasonsun.site](https://jasonsun.site)
-- 👨‍💻 I was most recently a SWE intern at [Zanbato](https://www.zanbato.com/) in Mountain View, CA. I've had 4 SWE internship experiences.
+- 👨‍💻 I am an incoming SWE intern at [Frec](https://frec.com/) in SF, and I previously interned at [Zanbato](https://www.zanbato.com/) in Mountain View, CA. I've had 4 SWE internship experiences.
 - ⚡ Other Passions: I'm also an avid basketball player and a musician/saxophonist on the side.
 
 ## 🔧 Some Technologies I've Worked With
